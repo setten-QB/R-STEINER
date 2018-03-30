@@ -16,6 +16,10 @@ R-STEINER/
     rsteiner.py
     settenQBmodule.py
   Data/  # the original datasets should be preserved in this directory
+    sequence data in HS condition (pandas' pickle file)
+    sequence data in Con condition (pandas' pickle file)
+    PR-value data in HS condition (pandas' pickle file)
+    PR-value data in Con condition (pandas' pickle file)
     feature/  # the features used in R-STEINER is preserved
   Models/  # the models used in R-STEINER is preserved
 ```
@@ -27,7 +31,7 @@ R-STEINER/
 All of the raw CAGE sequences data used in our paper are available on the [DDBJ Sequence Read Archive (DRA) database with accession number DRA006661](https://trace.ddbj.nig.ac.jp/DRASearch/submission?acc=DRA006661).
 You can transform these data to the sequence data which can be used actually by procedure shown in Section 4.1.3 of the paper.
 You have to preserve the transformed data into `R-STEINER/Data`.
-The form of datasets is the following.
+The form of datasets of mRNA sequences is the following.
 
 | Gene ID | 5'UTR |  CDS  | 3'UTR |
 |:--------|:------|:------|:------|

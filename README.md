@@ -37,8 +37,7 @@ The form of datasets is the following.
 2. You have to install a software: [ViennaRNA Package](https://www.tbi.univie.ac.at/RNA/).
 
 3. You should run the following programs:
-  
-  1. `mk-predictors.py`
-  1. `rsteiner.py`
+    1. `mk-predictors.py`
+    1. `rsteiner.py`
 
 Then you can obtain top-$k$ translation enahcners in `R-STEINER/Data/result_R-STEINER.csv`.

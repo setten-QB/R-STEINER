@@ -2,7 +2,7 @@
 
 This repository provides the scripts for [R-STEINER](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=186582&item_no=1).
 The R-STEINER is discovery method of translation enhancers, i.e. we can obtain 5'UTRs which increase the translated proteins---or, translation efficiency----by R-STEINER.
-In our setting is based on [Tanaka et al. (2018)](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=186582&item_no=1), i.e. CDS and 3'UTR are given.
+The setting of the scripts is based on [Tanaka et al. (2018)](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=186582&item_no=1), i.e. CDS and 3'UTR are given.
 
 
 ## Directory
